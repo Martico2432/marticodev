@@ -10,6 +10,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  experimental: {
+    disableServerActions: true,
+  },
 }
 
 export default nextConfig
