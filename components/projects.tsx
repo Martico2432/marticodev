@@ -15,7 +15,7 @@ const projects = [
     desc:
       "Made a bot for Rocket League that was trained using Behavioural Cloning",
     img: "/green-computer-vision-neural-network.png",
-    tags: ["Machine Learning", "RL", "PyTorch", "PPO", "RLGym"],
+    tags: ["Machine Learning", "PyTorch", "RLGym", "Behavioural Cloning", "GAIL"],
   },
 ]
 

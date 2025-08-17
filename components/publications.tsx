@@ -2,12 +2,18 @@ import { ExternalLink } from 'lucide-react'
 import Link from "next/link"
 
 const pubs = [
+  // {
+  //   title: "Attention-enhanced CNNs for Real-time Quality Inspection",
+  //   venue: "ICCV Workshop, 2024",
+  //   link: "https://example.com/publication-1",
+  //   summary: "Proposes a lightweight attention module that boosts detection fidelity under latency constraints.",
+  // },
   {
-    title: "Attention-enhanced CNNs for Real-time Quality Inspection",
-    venue: "ICCV Workshop, 2024",
-    link: "https://example.com/publication-1",
-    summary: "Proposes a lightweight attention module that boosts detection fidelity under latency constraints.",
-  },
+    title: "Empty",
+    venue: "Empty",
+    link: "Empty",
+    summary: "Empty",
+  }
 ]
 
 export default function Publications() {
