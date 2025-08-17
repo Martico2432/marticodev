@@ -26,11 +26,11 @@ export default function Hero() {
               View projects <ArrowRight className="ml-2 h-4 w-4" />
             </Link>
           </Button>
-          <Button asChild size="lg" variant="outline" className="border-emerald-500/60 text-emerald-300 hover:bg-emerald-500/10">
+          {/* <Button asChild size="lg" variant="outline" className="border-emerald-500/60 text-emerald-300 hover:bg-emerald-500/10">
             <a href="/resume.pdf" download>
               Download Resume <Download className="ml-2 h-4 w-4" />
             </a>
-          </Button>
+          </Button> */}
         </div>
       </div>
     </section>
