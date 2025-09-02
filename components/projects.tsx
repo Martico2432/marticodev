@@ -17,6 +17,13 @@ const projects = [
     img: "/green-computer-vision-neural-network.png",
     tags: ["Machine Learning", "PyTorch", "RLGym", "Behavioural Cloning", "GAIL"],
   },
+  {
+    title: "mcollm1",
+    desc:
+      "A 2b parameter adapter for google/gemma-2b model, repository: https://huggingface.co/Martico2432/mcollm1-2b",
+    img: "/green-computer-vision-neural-network.png",
+    tags: ["LLM", "Transformers", "Huggingface", "Wandb"],
+  },
 ]
 
 export default function Projects() {
